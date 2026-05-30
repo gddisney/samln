@@ -3,18 +3,18 @@ module github.com/gddisney/samln
 go 1.25.10
 
 require (
-	github.com/gddisney/ultimate_db v1.1.0
+	github.com/0TrustCloud/ultimate_db v1.1.0
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/google/go-tpm v0.9.8
 )
 
 require (
 	github.com/fxamacker/cbor/v2 v2.9.2 // indirect
-	github.com/gddisney/guikit v1.1.1 // indirect
-	github.com/gddisney/logger v1.0.1 // indirect
-	github.com/gddisney/secure_policy v1.0.4 // indirect
-	github.com/gddisney/service_keys v1.0.0 // indirect
-	github.com/gddisney/webauthnext v1.0.6 // indirect
+	github.com/0TrustCloud/guikit v1.1.1 // indirect
+	github.com/0TrustCloud/logger v1.0.1 // indirect
+	github.com/0TrustCloud/secure_policy v1.0.4 // indirect
+	github.com/0TrustCloud/service_keys v1.0.0 // indirect
+	github.com/0TrustCloud/webauthnext v1.0.6 // indirect
 	github.com/go-viper/mapstructure/v2 v2.5.0 // indirect
 	github.com/go-webauthn/webauthn v0.17.3 // indirect
 	github.com/go-webauthn/x v0.2.5 // indirect
