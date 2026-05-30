@@ -1,4 +1,4 @@
-module github.com/gddisney/samln
+module github.com/0TrustCloud/samln
 
 go 1.25.10
 
