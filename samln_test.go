@@ -13,7 +13,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gddisney/ultimate_db"
+	"github.com/0TrustCloud/ultimate_db"
 )
 
 func setupSAMLnTestEnv(t *testing.T, dbFile, walFile string) (*SAMLnEngine, func()) {
