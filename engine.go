@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/gddisney/ultimate_db"
-	"github.com/gddisney/service_keys"
+	"github.com/0TrustCloud/ultimate_db"
+	"github.com/0TrustCloud/service_keys"
 )
 
 type contextKey string
